@@ -11,7 +11,7 @@ with *Jean Cupe* and *Sacha Muszlak
 
 
 *Associated files:*  
-* **OMOP**: Description of OMOP's types of Data v5.4 & 6.0:
-_- OMOP_CDM_v54.pdf (full descr.) and OMOP_v54-Smmary.odt (Summary for each table)._
-_- OMOP_CDM_v60.pdf (full descr.) and OMOP_v60-Smmary.odt (Summary for each table)._
+* **OMOP**: Description of OMOP's types of Data v5.4 & 6.0:  
+_OMOP_CDM_v54.pdf (full descr.) and OMOP_v54-Smmary.odt (Summary for each table)._  
+_OMOP_CDM_v60.pdf (full descr.) and OMOP_v60-Smmary.odt (Summary for each table)._
 
