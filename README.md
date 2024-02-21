@@ -7,7 +7,7 @@ Create plugins for the *LinkR* application, an open-application interoperability
 
 ## Play my part:
 - Create a plugin for Datavisualisation of medical prescription.
-with *Jean Cupe* and *Sacha Muszlak
+with *Jean Cupe* and *Sacha Muszlak*.
 
 
 *Associated files:*  
