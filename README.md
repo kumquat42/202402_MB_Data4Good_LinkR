@@ -6,7 +6,7 @@ Supported by Data4Good and InterHop (Boris Delange).
 Create plugins for the *LinkR* application, an open-application interoperability of medical data aiming researchers and practicians.  
 
 ## Play my part:
-- Create a plugin for Datavisualisation of medical prescription.
+- Create a plugin for Datavisualisation of medical prescription.  
 with *Jean Cupe* and *Sacha Muszlak*.
 
 
